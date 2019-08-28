@@ -1,19 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
 h1, h2, p {
     font-family: 'Abril Fatface', cursive;
-}
+}/*
 * {
     background-color: cyan;  
     font-size: 40px
-}
+}*/
 
 body {
     background-image: url("BTS pic.jpg");
 }
 
 h1, H2, P {
-    color: rgb(247, 210, 0);
-    background-color: rgb(124, 123, 123, 0.4)
+    color: rgb(235, 201, 8);
+    background-color: rgba(88, 86, 86, 0.4)
 }
 
 * {
