@@ -2,10 +2,10 @@
 h1, h2, p {
     font-family: 'Abril Fatface', cursive;
 }
-*/* {
-    background-color: cyan; 
+* {
+    background-color: cyan;  
     font-size: 40px
-}*/
+}
 
 body {
     background-image: url("BTS pic.jpg");
