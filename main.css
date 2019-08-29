@@ -6,7 +6,9 @@ h1, h2, p {
     background-color: cyan;  
     font-size: 40px
 }*/
-
+body {
+    background-size: wrap
+}
 body {
     background-image: url("BTS pic.jpg");
 }
@@ -29,3 +31,20 @@ body {
 h1, h2, p {
     font-size: 33px
 }
+
+.container {
+    display: flex;
+    flex-wrap:  wrap;
+}
+.box {
+    color:white;
+    font-size: 100px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: center;
+    padding:15px;
+    width: 33.3333%; 
+    flex: 1;
+}
+    .box1 {background:rgb(218, 32, 32);}
+ .box2 {background:rgb(100, 218, 32);}
+ .box3 {background:rgb(32, 218, 206);}
